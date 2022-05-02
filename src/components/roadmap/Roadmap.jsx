@@ -7,27 +7,25 @@ const phaseRoad = {
         'Community Creation',
         'Website Design and Development',
         'Infrastructure Works',
-        'Pancakeswap Listing',
-        
+        'Pancakeswap Listing'
     ],
     phase2:[
-        'Airdrop',
-        '1000+ Investors',
-        'NFT Market Creation',
-        'Cg-cmc Reference',
-        'Partnership Agreements'
+        'Community Creation',
+        'Website Design and Development',
+        'Infrastructure Works',
+        'Pancakeswap Listing'
     ],
     phase3:[
-        '1500+ Investors',
-        'First CEX Listing',
-        'Advertising works',
-        '500+ Investors',
-        'Fair Launch'
+        'Community Creation',
+        'Website Design and Development',
+        'Infrastructure Works',
+        'Pancakeswap Listing'
     ],
     phase4:[
-        'First DEX Exchange Listing',
-        'Setting Up Your Own SWAP Exchange',
-        'Determining the New Roadmap'
+        'Community Creation',
+        'Website Design and Development',
+        'Infrastructure Works',
+        'Pancakeswap Listing'
     ]
 }
 

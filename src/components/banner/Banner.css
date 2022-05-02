@@ -58,6 +58,7 @@
     width: 30%;
     border: 1px solid #fff;
     padding: 0.5rem;
+    margin: auto;
 }
 @media screen and (max-width:950px) and (min-width:250px) {
     .banner{

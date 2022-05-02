@@ -4,4 +4,8 @@
 }
 .link img{
     width: 80%;
+    opacity: 0.5;
+}
+.link img:hover{
+    opacity: 1;
 }
