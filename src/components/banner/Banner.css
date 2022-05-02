@@ -55,7 +55,6 @@
     margin-top: 2rem;
 }
 .banner-text-wrap .social-links .buy-link{
-    width: 30%;
     border: 1px solid #fff;
     padding: 0.5rem;
     margin: auto;
@@ -84,5 +83,9 @@
         text-align: center;
         text-shadow: 1px 1px 16px rgba(89,89,89,0.99);
         font-size: 14px;
+    }
+    .banner-text-wrap .social-links .buy-link{
+       font-size: 13px;
+       margin: 0.5rem;
     }
 }

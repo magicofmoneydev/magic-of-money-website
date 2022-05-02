@@ -35,8 +35,7 @@ import logo from '../../assets/img/magic-of-money-logo.png';
                 </div>
                 </div>
             </header>
-            <header className='mobile-header'>
-                <div className="container">
+            <header className='mobile-header'>               
                        <div className='logo-wrap'>
                             <a href="#home" className="logo">
                                 <img src={logo} alt="logo" className='nav-logo'/>
@@ -47,8 +46,6 @@ import logo from '../../assets/img/magic-of-money-logo.png';
                                 <RiMenuLine className='toggle-icon' onClick={this.onClickToggle} />
                             </a>
                         </div>
-                        
-                </div>
             </header>
             {this.state.mobileMenuVisibility ?
                  <div className='container'>
