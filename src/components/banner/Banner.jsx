@@ -7,9 +7,9 @@ function Banner() {
     <section className='banner'>
         <div className='banner-text-wrap'>
             <h2>#MAGIC</h2>
-            <h1>Buraya Slogan Gelecek !</h1>
+            <h1>Magic Of Money!</h1>
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur laboriosam exercitationem reiciendis? Ducimus veritatis consequatur voluptatum corporis asperiores laborum nam explicabo odio esse, vel voluptate quidem ut molestias, culpa enim!
+            While offering token projects a valid use case, we also offer investors a legitimate way to increase their passive income indefinitely.
             </p>
             <div className='social-links'>
               <a href="#home" className='buy-link'>Join Community</a>

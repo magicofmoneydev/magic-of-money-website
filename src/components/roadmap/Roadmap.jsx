@@ -1,52 +1,41 @@
 import React from 'react'
 import './Roadmap.css'
-import Phase from '../phase/Phase'
 
-const phaseRoad = {
-    phase1:[
-        'Community Creation',
-        'Website Design and Development',
-        'Infrastructure Works',
-        'Pancakeswap Listing'
-    ],
-    phase2:[
-        'Community Creation',
-        'Website Design and Development',
-        'Infrastructure Works',
-        'Pancakeswap Listing'
-    ],
-    phase3:[
-        'Community Creation',
-        'Website Design and Development',
-        'Infrastructure Works',
-        'Pancakeswap Listing'
-    ],
-    phase4:[
-        'Community Creation',
-        'Website Design and Development',
-        'Infrastructure Works',
-        'Pancakeswap Listing'
-    ]
-}
 
 function Roadmap() {
   return (
     <section className='roadmap'>
-         <h1 className="sec-head">ROADMAP</h1>
-            <div className="roadmap-wrap" id="roadmap">
-               <div className="phase linear-bg">
-                <Phase number={1} roads={phaseRoad.phase1}/>
-               </div>
-               <div className="phase linear-bg">
-                <Phase number={2} roads={phaseRoad.phase2}/>
-               </div>
-               <div className="phase linear-bg">
-                <Phase number={3} roads={phaseRoad.phase3}/>
-               </div>
-               <div className="phase linear-bg">
-                <Phase number={4} roads={phaseRoad.phase4}/>
-               </div>
-            </div>
+        <h1 className='sec-head'>Roadmap</h1>
+        <main id='roadmap' className='phase'>
+            <h2>Phase 1</h2>
+
+            <p>Pancakeswap Listing</p>
+            <p>Community Building</p>
+            <p>Influcing</p>
+            <p>500 Hold</p>
+            <p>CoinmarketCap & CoinGecko Listing</p>
+            <p>Pancakeswap Farm</p>
+        </main>
+        <main id='roadmap' className='phase'>
+            <h2>Phase 2</h2>
+
+            <p>Cex Listing</p>
+            <p>Game Development</p>
+            <p>Website Designs</p>
+            <p>Stake</p>
+            <p>Strategic Partnership</p>
+        </main>
+        <main id='roadmap' className='phase'>
+            <h2>Phase 3</h2>
+
+            <p>Gate.io Listing</p>
+            <p>Mexc Listing</p>
+            <p>Massive Marketing Campaign</p>
+            <p>Bridge or ETH and SOL Networks</p>
+            <p>Play To Earn Cyrpto-Mobile Game</p>
+        </main>
+
+
     </section>
   )
 }
