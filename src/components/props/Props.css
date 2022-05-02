@@ -1,0 +1,42 @@
+.props{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.prop{
+    width: 30%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem;
+}
+.prop:hover{
+   cursor: pointer;
+}
+.prop-image{
+    text-align: center;
+    width: 100%;
+    max-height: 150px;
+}
+.prop-image img{
+    width: 40%;
+    height: 100%;
+}
+@media screen and (max-width:950px) and (min-width:250px){
+    .props{
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+    }
+    .prop{
+        width: 80%;
+        text-align: center;
+        margin: auto;
+    }
+}

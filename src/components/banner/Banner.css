@@ -1,0 +1,87 @@
+.banner{
+    width: 99%;
+    margin: auto;
+    margin-top: 80px;
+    min-height: 520px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    /* background: url(../../assets/img/money.png) no-repeat center;
+    background-size: 50%; */
+    text-align: center;
+}
+.banner-image-wrap,.banner-text-wrap{
+    width: 40%;
+    text-align: center;
+}
+.banner-image-wrap img{
+    width: 80%;
+    transition: transform 0.2s linear;
+    -webkit-transition: transform 0.2s linear;
+    -moz-transition: transform 0.2s linear;
+    -ms-transition: transform 0.2s linear;
+    -o-transition: transform 0.2s linear;
+}
+.banner-image-wrap img:hover{
+    cursor: pointer;
+    transform: translateY(-2rem);
+    -webkit-transform: translateY(-2rem);
+    -moz-transform: translateY(-2rem);
+    -ms-transform: translateY(-2rem);
+    -o-transform: translateY(-2rem);
+    transition: transform 0.4s linear;
+    -webkit-transition: transform 0.4s linear;
+    -moz-transition: transform 0.4s linear;
+    -ms-transition: transform 0.4s linear;
+    -o-transition: transform 0.4s linear;
+}
+.banner-text-wrap h1{
+    font-size: 3rem;
+    color: #fff;
+}
+.banner-text-wrap h2{
+    color: #fff;
+}
+.banner-text-wrap p{
+    color: #fff;
+    text-align: center;
+    text-shadow: 1px 1px 16px rgba(89,89,89,0.99);
+}
+.banner-text-wrap .social-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+.banner-text-wrap .social-links .buy-link{
+    width: 30%;
+    border: 1px solid #fff;
+    padding: 0.5rem;
+}
+@media screen and (max-width:950px) and (min-width:250px) {
+    .banner{
+        margin-top: 0.5rem;
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+    .banner-image-wrap{
+        width: 80%;
+    }
+    .banner-image-wrap img{
+        width: 100%;
+    }
+    .banner-text-wrap{
+        width: 80%;
+    }
+    .banner-text-wrap h1{
+        font-size: 2.8rem;
+        color: #fff;
+    }
+    .banner-text-wrap p{
+        color: #fff;
+        text-align: center;
+        text-shadow: 1px 1px 16px rgba(89,89,89,0.99);
+        font-size: 14px;
+    }
+}
