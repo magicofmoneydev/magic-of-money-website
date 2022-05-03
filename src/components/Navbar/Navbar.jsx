@@ -29,7 +29,7 @@ import logo from '../../assets/img/magic-of-money-logo.png';
                         <li><a href="#about">About</a></li>
                         <li><a href="#tokenomic">Tokenomic</a></li>
                         <li><a href="#roadmap">Roadmap</a></li>
-                        <li><a href="#buy" className='buy-link'>BUY #MOM</a></li>
+                        <li><a href="#buy" className='buy-link'>BUY $MOM</a></li>
                     </ul>
                     </nav>
                 </div>
@@ -55,7 +55,7 @@ import logo from '../../assets/img/magic-of-money-logo.png';
                          <li><a href="#about">About</a></li>
                          <li><a href="#tokenomic">Tokenomic</a></li>
                          <li><a href="#roadmap">Roadmap</a></li>
-                         <li><a href="#buy" className='buy-link'>BUY #MOM</a></li>
+                         <li><a href="#buy" className='buy-link'>BUY $MOM</a></li>
                      </ul>
                  </div>
              </div>

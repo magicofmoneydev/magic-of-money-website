@@ -6,7 +6,7 @@ function Banner() {
   return (
     <section className='banner'>
         <div className='banner-text-wrap'>
-            <h2>#MOM</h2>
+            <h2>$MOM</h2>
             <h1>Magic Of Money!</h1>
             <p>
             While offering token projects a valid use case, we also offer investors a legitimate way to increase their passive income indefinitely.
