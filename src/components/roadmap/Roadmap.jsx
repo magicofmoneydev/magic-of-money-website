@@ -20,7 +20,6 @@ function Roadmap() {
             <h2>Phase 2</h2>
 
             <p>Cex Listing</p>
-            <p>Game Development</p>
             <p>Website Designs</p>
             <p>Stake</p>
             <p>Strategic Partnership</p>
@@ -32,7 +31,6 @@ function Roadmap() {
             <p>Mexc Listing</p>
             <p>Massive Marketing Campaign</p>
             <p>Bridge or ETH and SOL Networks</p>
-            <p>Play To Earn Cyrpto-Mobile Game</p>
         </main>
 
 
