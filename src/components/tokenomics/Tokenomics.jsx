@@ -19,26 +19,28 @@ const Tokenomics = () => {
                 <div className="content ">
                     <ul>
                         <li>
-                            <Feature title="Total Supply" text="1.000.000.000" />
+                            <Feature title="Total Supply" text="100.000.000" />
                         </li>
                         <li>
-                            <Feature title="Marketing" text="200,000,000 (20%)" />
+                            <Feature title="Burn" text="80,000,000" />
                         </li>
                         <li>
-                            <Feature title="Team" text="120,000,000 (12%)" />
+                            <Feature title="Circulating Supply" text="20,000,000" />
+                        </li>
+                        
+                        <h2 className="trans-head"> <div></div> Buy Tax Fee</h2>
+                        <li>
+                            <Feature title="Rewards" text="5%" />
                         </li>
                         <li>
-                            <Feature title="PancakeSwap" text="680,000,000 (68%)" />
+                            <Feature title="Liquidity" text="5%" />
                         </li>
-                        <h2 className="trans-head"> <div></div> Transaction Fees</h2>
+                        <h2 className="trans-head"> <div></div> Sell Tax Fee</h2>
                         <li>
-                            <Feature title="Busd Reward" text="5%" />
-                        </li>
-                        <li>
-                            <Feature title="Marketing Fee" text="1%" />
+                            <Feature title="Rewards" text="5%" />
                         </li>
                         <li>
-                            <Feature title="Add to Liquidity" text="4%" />
+                            <Feature title="Liquidity" text="5%" />
                         </li>
                     </ul>
                 </div>
