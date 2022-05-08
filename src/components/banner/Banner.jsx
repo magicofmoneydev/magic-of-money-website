@@ -1,6 +1,6 @@
 import React from 'react'
 import './Banner.css'
-import img from '../../assets/img/money.png'
+import img from '../../assets/img/vd3.MP4'
 
 function Banner() {
   return (
@@ -12,12 +12,12 @@ function Banner() {
             While offering token projects a valid use case, we also offer investors a legitimate way to increase their passive income indefinitely.
             </p>
             <div className='social-links'>
-              <a href="#home" className='buy-link'>Join Community</a>
-              <a href="#home" className='buy-link'>BUY ON PANCAKESWAP</a>
+              <a href="https://t.me/magicofmoney" className='buy-link' target="_blank" rel="noopener noreferrer">Join Community</a>
+              <a href="https://pancakeswap.finance/swap" className='buy-link' target="_blank" rel="noopener noreferrer">BUY ON PANCAKESWAP</a>
             </div>
         </div>
          <div className='banner-image-wrap'>
-            <img src={img} alt="magic of money" className='upDownanimation'  />
+            <video src={img}  autoPlay loop ></video>
         </div>
     </section>
   )
