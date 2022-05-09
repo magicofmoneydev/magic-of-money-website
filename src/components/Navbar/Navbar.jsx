@@ -29,6 +29,7 @@ import logo from '../../assets/img/magic-of-money-logo.png';
                         <li><a href="#about">About</a></li>
                         <li><a href="#tokenomic">Tokenomic</a></li>
                         <li><a href="#roadmap">Roadmap</a></li>
+                        <li><a href="#team">Team</a></li>
                         <li><a href="https://pancakeswap.finance/swap" className='buy-link' target="_blank" rel="noopener noreferrer">BUY $MOM</a></li>
                     </ul>
                     </nav>
@@ -55,6 +56,7 @@ import logo from '../../assets/img/magic-of-money-logo.png';
                          <li><a href="#about">About</a></li>
                          <li><a href="#tokenomic">Tokenomic</a></li>
                          <li><a href="#roadmap">Roadmap</a></li>
+                         <li><a href="#team">Team</a></li>
                          <li><a href="https://pancakeswap.finance/swap" className='buy-link' target="_blank" rel="noopener noreferrer">BUY $MOM</a></li>
                      </ul>
                  </div>

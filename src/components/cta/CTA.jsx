@@ -8,7 +8,7 @@ const CTA = () => (
       <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elitconsequatur debitis!</h3>
     </div>
     <div className="gpt3__cta-btn">
-       <a href="https://pancakeswap.finance/swap" className='buy-link' target="_blank" rel="noopener noreferrer">Join Community</a>
+       <a href="https://t.me/magicofmoney" className='buy-link' target="_blank" rel="noopener noreferrer">Join Community</a>
     </div>
   </div>
 );

@@ -8,6 +8,7 @@ import Roadmap from './components/roadmap/Roadmap';
 import Tokenomics from './components/tokenomics/Tokenomics';
 import CTA from './components/cta/CTA';
 import Footer from './components/footer/Footer';
+import Team from './components/team/Team';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Props/>
         <Roadmap/>
         <Tokenomics/>
+        <Team/>
       </div>
       <CTA/>
       <Brand/>

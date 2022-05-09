@@ -14,10 +14,10 @@ function Brand() {
        <a href="#home" className='link'>
            <img src={img2} alt="" />
        </a>
-       <a href="#home" className='link'>
+       <a href="https://twitter.com/magicofmoneyy?s=21&t=sF765HlqwyFHJGGi3K_iwQ" className='link' target='_blank' rel="noopener noreferrer">
            <img src={img3} alt="" />
        </a>
-       <a href="#home" className='link'>
+       <a href="https://t.me/magicofmoney" className='link'  target='_blank' rel="noopener noreferrer">
            <img src={img4} alt="" />
        </a>
    </section>

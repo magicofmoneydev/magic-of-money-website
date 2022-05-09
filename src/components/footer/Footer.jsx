@@ -18,7 +18,7 @@ const Footer = () => (
                   </div>
                   <div className='col'>
                           <ul className='footer-links'>
-                              <li><a href='https://pancakeswap.finance/swap' target="_blank" rel="noopener noreferrer">Telegram</a></li>
+                              <li><a href='https://t.me/magicofmoney' target="_blank" rel="noopener noreferrer">Telegram</a></li>
                               <li><a href='https://twitter.com/magicofmoneyy?s=21&t=sF765HlqwyFHJGGi3K_iwQ' target="_blank" rel="noopener noreferrer">Twitter</a></li>
                               <li><a href='https://m.facebook.com/?_rdr#!/profile.php?id=100080458644687' target="_blank" rel="noopener noreferrer">Facebook</a></li>
                               <li><a href='https://pancakeswap.finance/swap' target="_blank" rel="noopener noreferrer">PancakewSwap</a></li>
