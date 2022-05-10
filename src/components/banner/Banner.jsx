@@ -12,7 +12,7 @@ function Banner() {
             While offering token projects a valid use case, we also offer investors a legitimate way to increase their passive income indefinitely.
             </p>
             <div className='social-links'>
-              <a href="https://t.me/magicofmoney" className='buy-link' target="_blank" rel="noopener noreferrer">Join Community</a>
+              <a href='/magic-of-money-whitepaper.pdf' className='buy-link' target="_blank" rel="noopener noreferrer">Whitepaper</a>
               <a href="https://pancakeswap.finance/swap" className='buy-link' target="_blank" rel="noopener noreferrer">BUY ON PANCAKESWAP</a>
             </div>
         </div>

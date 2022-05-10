@@ -12,7 +12,7 @@ function Roadmap() {
             <p>Pancakeswap Listing</p>
             <p>Community Building</p>
             <p>Influcing</p>
-            <p>500 Hold</p>
+            <p>200 Hold</p>
             <p>CoinmarketCap & CoinGecko Listing</p>
             <p>Pancakeswap Farm</p>
         </main>
@@ -27,8 +27,7 @@ function Roadmap() {
         <main id='roadmap' className='phase'>
             <h2>Phase 3</h2>
 
-            <p>Gate.io Listing</p>
-            <p>Mexc Listing</p>
+            <p>Cex Exchange Listing</p>
             <p>Massive Marketing Campaign</p>
             <p>Bridge or ETH and SOL Networks</p>
         </main>
