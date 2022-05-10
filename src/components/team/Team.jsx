@@ -15,7 +15,7 @@ import {FaLinkedin} from 'react-icons/fa'
        {/* Team Image, css background for this div */}
        <div className="col">
            <img src={tm1} alt="magic of money" />
-           <a href='https://t.me/c/1505917928/20895' target="_blank" rel="noopener noreferrer">
+           <a href='https://www.linkedin.com/in/yakup-g%C3%BCltekin-4917ba22a' target="_blank" rel="noopener noreferrer">
                <FaLinkedin className='team-link'/>
            </a>
        </div>
