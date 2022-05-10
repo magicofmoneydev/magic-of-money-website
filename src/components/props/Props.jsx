@@ -10,7 +10,7 @@ import img1 from '../../assets/img/bag.png'
           <img src={img1} alt="" />
         </div>
         <p className='prop-text'>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error dolores ad natus excepturi voluptatem.
+        MOM is a project focused on winning and earning.
         </p>
       </div>
 
@@ -19,7 +19,7 @@ import img1 from '../../assets/img/bag.png'
           <img src={img1} alt="" />
         </div>
         <p className='prop-text'>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error dolores ad natus excepturi voluptatem.
+        Those who hold MOM will earn $MAGIC.
         </p>
       </div>
 
@@ -28,7 +28,7 @@ import img1 from '../../assets/img/bag.png'
           <img src={img1} alt="" />
         </div>
         <p className='prop-text'>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error dolores ad natus excepturi voluptatem.
+        You will see our goals come one by one.
         </p>
       </div>
     </section>

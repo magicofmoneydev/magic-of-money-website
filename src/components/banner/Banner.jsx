@@ -17,7 +17,9 @@ function Banner() {
             </div>
         </div>
          <div className='banner-image-wrap'>
-            <video src={img}  autoPlay loop ></video>
+            <video  autoPlay loop muted>
+            <source src={img} type="video/mp4"/>
+            </video>
         </div>
     </section>
   )
